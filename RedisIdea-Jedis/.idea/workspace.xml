@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="055c6648-f8be-47b4-ba87-2cd92b6cfeae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\Apache\maven-repository" />
+        <option name="mavenHome" value="D:/Program Files/Apache/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\Apache\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectId" id="1pVb1oS9AnSAVejoAE6nbt8psN3" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/AndroidSDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="055c6648-f8be-47b4-ba87-2cd92b6cfeae" name="Default Changelist" comment="" />
+      <created>1615270992089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615270992089</updated>
+      <workItem from="1615270994973" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="98" key="#Project_Structure" timestamp="1615271015821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="98" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1615271015821" />
+    <state x="690" y="220" key="FileChooserDialogImpl" timestamp="1615271205928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="220" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615271205928" />
+    <state x="333" y="78" key="SettingsEditor" timestamp="1615271131764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="333" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615271131764" />
+    <state x="161" y="157" key="new project wizard" timestamp="1615271230282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="157" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1615271230282" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+
+# 配置Redis
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    #jedis 不在使用,源里面没有注入成功
